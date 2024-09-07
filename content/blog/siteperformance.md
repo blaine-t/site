@@ -61,3 +61,7 @@ I love the tabi theme but one of the things I struggled initially was sizing of 
 ## Closing
 
 Overall, optimizing this website has been a fun experience but it has shown me the pains of the modern web. I'm still old enough to remember parts of the old internet and the simplicity that came with it. I sometimes wish for that old internet back but I think a lot of that is nostalgia at this point. I really wish it wasn't a requirement to have an ad-blocker in this day and age but here we are where everything has to be monetized. I will never apply any trackers or advertisements to this website for that reason. I want to provide a modern take on the old web experience through having a nice to navigate static web site like I have now!
+
+### Addendum
+
+As [WalterOfNone](https://github.com/WalterOfNone) so kindly pointed out the site is not a fully true static site. All of the first-party parts of the site are static but features like [giscus](https://giscus.app/) that power my comments on the site are not static. The scripts to handle giscus are cached while the user content is not. It is lazy loaded in order to help performance on pages with comments enabled.
