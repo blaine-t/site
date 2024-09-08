@@ -215,7 +215,7 @@ add_src_to_code_block = false
 favicon = "img/favicon.png"
 socials = [
     { name = "github", url = "https://github.com/blaine-t/", icon = "github" },
-    { name = "mastodon", url = "https://infosec.exchange/@blaine", icon = "mastodon" },
+    { name = "linkedin", url = "https://www.linkedin.com/in/blaine-traudt/", icon = "linkedin" },
     { name = "instagram", url = "https://instagram.com/blainetraudt", icon = "instagram" },
 ]
 footer_menu = [
