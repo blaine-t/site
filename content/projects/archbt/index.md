@@ -7,11 +7,7 @@ weight = 6
 local_image = "img/archBT.webp"
 +++
 
-Files I use for my Arch installations.
-
-Scripts for installing Arch.
-
-Run the install scripts in order for it to work.
+Files I use for my Arch installations
 
 Scripts install an optionally encrypted bcachefs filesystem with EFISTUBs for boot with Secure Boot support. Comes with KDE Plasma X11 and/or Wayland OR NEWLY ADDED SWAY. Also comes with patches for using Wayland on optional applications. Used for the "Ultimate Arch Install"
 
