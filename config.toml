@@ -209,9 +209,9 @@ remote_repository_branch = "main"
 show_remote_changes = true
 show_remote_source = true
 # Eventually break out to individual pages
-katex = true
-copy_button = true
-add_src_to_code_block = true
+katex = false
+copy_button = false
+add_src_to_code_block = false
 favicon = "img/favicon.png"
 socials = [
     { name = "github", url = "https://github.com/blaine-t/", icon = "github" },
