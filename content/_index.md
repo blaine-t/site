@@ -14,4 +14,4 @@ This is my personal site where I will share my projects and things that interest
 \
 Blog posts will most likely be centered around Computer Science and Finance.
 \
-I have interests in GNU/Linux, cybersecurity, networking, optimization, and financial independence.
+I have interests in GNU/Linux, cybersecurity, networking, optimization, and FIRE.
