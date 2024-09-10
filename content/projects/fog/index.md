@@ -4,7 +4,7 @@ description = "Uses the Microsoft Graph API to forward emails from an Outlook ac
 weight = 5
 
 [extra]
-local_image = "img/fog.webp"
+local_image = "img/projects/fog.avif"
 +++
 
 AKA FOG for short

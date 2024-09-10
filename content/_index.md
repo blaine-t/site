@@ -4,7 +4,7 @@ sort_by = "date"
 template = "section.html"
 
 [extra]
-header = {title = "~$ Hello, I'm Blaine_", img = "img/headshot.webp", img_alt = "Head shot of Blaine Traudt" }
+header = {title = "~$ Hello, I'm Blaine_", img = "img/headshot.avif", img_alt = "Head shot of Blaine Traudt" }
 section_path = "blog/_index.md"
 max_posts = 3
 projects_path = "projects/_index.md"

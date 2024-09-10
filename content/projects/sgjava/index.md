@@ -4,7 +4,7 @@ description = " Client java code to run stock game, A multiplayer stock trading 
 weight = 7
 
 [extra]
-local_image = "img/sgJava.webp"
+local_image = "img/projects/sgJava.avif"
 +++
 
 Client java code to run stock game, A multiplayer stock trading game I developed during my time at [the 2 week Raikes Summer Camp](https://raikes.unl.edu/summer-camp/)

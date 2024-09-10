@@ -4,7 +4,7 @@ description = "A web service that allows for students to get in contact with vol
 weight = 3
 
 [extra]
-local_image = "img/studors.webp"
+local_image = "img/projects/studors.avif"
 +++
 
 A web service that allows for students to get in contact with volunteer student tutors

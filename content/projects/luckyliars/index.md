@@ -4,7 +4,7 @@ description = "Lucky Liars is AI-powered murder mystery game that generates a ne
 weight = 1
 
 [extra]
-local_image = "img/luckyLiars.webp"
+local_image = "img/projects/luckyLiars.avif"
 +++
 
 Lucky Liars is AI-powered murder mystery game that generates a new experience every playthrough

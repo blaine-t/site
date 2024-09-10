@@ -4,7 +4,7 @@ description = "Low cost server management interface made with the Raspberry Pi P
 weight = 4
 
 [extra]
-local_image = "img/piMI.webp"
+local_image = "img/projects/piMI.avif"
 +++
 
 piMI is a low cost server management interface made with the Raspberry Pi Pico W. Includes support for optional e-ink display. Supports power management and real time system information from anywhere with WebSockets

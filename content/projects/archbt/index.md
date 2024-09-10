@@ -4,7 +4,7 @@ description = "Files I use for my Arch installations and other fun Arch things."
 weight = 6
 
 [extra]
-local_image = "img/archBT.webp"
+local_image = "img/projects/archBT.avif"
 +++
 
 Files I use for my Arch installations

@@ -4,7 +4,7 @@ description = "A game based on a sorting exercise from AP CS P"
 weight = 9
 
 [extra]
-local_image = "img/cards.webp"
+local_image = "img/projects/cards.avif"
 +++
 
 A game based on a sorting exercise from AP CS P
