@@ -71,7 +71,7 @@ taxonomies = [{name = "tags", feed = true}]
 
 # When set to "true", a search index is built from the pages and section
 # content for `default_language`.
-build_search_index = true
+build_search_index = false
 
 # Configuration of the Markdown rendering
 [markdown]
