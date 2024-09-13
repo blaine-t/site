@@ -218,9 +218,16 @@ socials = [
     { name = "linkedin", url = "https://www.linkedin.com/in/blaine-traudt/", icon = "linkedin" },
     { name = "instagram", url = "https://instagram.com/blainetraudt", icon = "instagram" },
 ]
+menu = [
+    { name = "blog", url = "blog", trailing_slash = true },
+    { name = "archive", url = "archive", trailing_slash = true },
+    { name = "tags", url = "tags", trailing_slash = true },
+    { name = "projects", url = "projects", trailing_slash = true },
+]
 footer_menu = [
-    {url = "about", name = "about", trailing_slash = true},
-    {url = "sitemap.xml", name = "sitemap", trailing_slash = false},
+    { name = "about", url = "about", trailing_slash = false },
+    { name = "sitemap", url = "sitemap.xml",  trailing_slash = false },
+    { name = "resume", url = "blaineTraudtResume.pdf", trailing_slash = false },
 ]
 copyright = "© $CURRENT_YEAR Blaine Traudt $SEPARATOR Unless otherwise noted, the content in this website is available under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) license."
 show_reading_time = true
