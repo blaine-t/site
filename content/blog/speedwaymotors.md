@@ -42,7 +42,7 @@ I dabbled a bit in the databases when I was creating my additional repos to grab
 ## Teamwork
 
 One of the best things about Speedway Motors is the team. The whole tech team is ~30 people but the specific team I was on had ~8 people which made the culture such an amazing fit for me. We would all work from home but that didn't limit our ability to communicate and pair program. There were many times I would work with my mentor to fix a problem, especially in the early days of my internship by screen sharing and pair programming. Sure it doesn't beat the real thing but being able to have my massive triple monitor setup without concern about if I will be able to have that same setup in the office outweighed that.
-{{ dimmable_image(src="img/blog/deskRender.avif", alt="A Fusion 360 view of my desk setup") }}
+{{ dimmable_image(src="img/blog/deskRender.avif", alt="A Fusion 360 view of my desk setup", webp="img/blog/deskRender.webp", jpg="img/blog/deskRender.jpg") }}
 I also had my amazing manager who made sure that I always had the tools and information to do my job correctly the first time so I didn't have to worry about refactoring code and wasting mine and the company's time. I also had great experiences with the other developers on the team who helped me in fields they specialized in like [Split](https://www.split.io/) and [Miso](https://miso.ai/).
 
 ## My Future
