@@ -1,10 +1,12 @@
 +++
 title = "Studors"
 description = "A web service that allows for students to get in contact with volunteer student tutors"
-weight = 3
+weight = 4
 
 [extra]
 local_image = "img/projects/studors.avif"
+local_image_webp = "img/projects/studors.webp"
+local_image_png = "img/projects/studors.png"
 +++
 
 A web service that allows for students to get in contact with volunteer student tutors

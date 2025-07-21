@@ -1,10 +1,12 @@
 +++
 title = "Cards"
 description = "A game based on a sorting exercise from AP CS P"
-weight = 9
+weight = 12
 
 [extra]
 local_image = "img/projects/cards.avif"
+local_image_webp = "img/projects/cards.webp"
+local_image_png = "img/projects/cards.png"
 +++
 
 A game based on a sorting exercise from AP CS P

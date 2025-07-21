@@ -1,10 +1,12 @@
 +++
 title = "fwd_outlook_graph"
 description = "Uses the Microsoft Graph API to forward emails from an Outlook account to any number of other email accounts automatically"
-weight = 5
+weight = 7
 
 [extra]
 local_image = "img/projects/fog.avif"
+local_image_webp = "img/projects/fog.webp"
+local_image_png = "img/projects/fog.png"
 +++
 
 AKA FOG for short

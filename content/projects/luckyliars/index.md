@@ -1,10 +1,12 @@
 +++
 title = "Lucky Liars"
 description = "Lucky Liars is AI-powered murder mystery game that generates a new experience every playthrough"
-weight = 1
+weight = 3
 
 [extra]
 local_image = "img/projects/luckyLiars.avif"
+local_image_webp = "img/projects/luckyLiars.webp"
+local_image_png = "img/projects/luckyLiars.png"
 +++
 
 Lucky Liars is AI-powered murder mystery game that generates a new experience every playthrough

@@ -1,10 +1,12 @@
 +++
 title = "sgJava"
 description = " Client java code to run stock game, A multiplayer stock trading game I developed during my time at the 2 week Raikes Summer Camp"
-weight = 7
+weight = 10
 
 [extra]
 local_image = "img/projects/sgJava.avif"
+local_image_webp = "img/projects/sgJava.webp"
+local_image_jpg = "img/projects/sgJava.jpg"
 +++
 
 Client java code to run stock game, A multiplayer stock trading game I developed during my time at [the 2 week Raikes Summer Camp](https://raikes.unl.edu/summer-camp/)

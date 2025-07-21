@@ -1,10 +1,12 @@
 +++
 title = "EduWiz"
 description = "EduWiz is an online webapp that gamifies learning, increasing in class engagement and educational outcomes using Web3"
-weight = 2
+weight = 9
 
 [extra]
 local_image = "img/projects/eduwiz.avif"
+local_image_webp = "img/projects/eduwiz.webp"
+local_image_png = "img/projects/eduwiz.png"
 +++
 
 EduWiz is an online webapp that gamifies learning, increasing in class engagement and educational outcomes using Web3

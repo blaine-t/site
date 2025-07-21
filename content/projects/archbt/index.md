@@ -1,10 +1,12 @@
 +++
 title = "archBT"
 description = "Files I use for my Arch installations and other fun Arch things."
-weight = 6
+weight = 8
 
 [extra]
 local_image = "img/projects/archBT.avif"
+local_image_webp = "img/projects/archBT.webp"
+local_image_jpg = "img/projects/archBT.jpg"
 +++
 
 Files I use for my Arch installations
