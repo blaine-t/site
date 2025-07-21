@@ -13,4 +13,4 @@ SAVR is a mock company for a class utilizing hardware and software for a prototy
 
 The whole SAVR ecosystem has an API, a webapp, micropython hardware package, and a website! All of them are stored in a monorepo. This domain is soon to expire but if it hasn't yet visit [savr-containers.com](https://savr-containers.com)!
 
-Source code and more information [available on Github](https://github.com/blaine-t/savr)!
+Source code and more information available on Github soon!
