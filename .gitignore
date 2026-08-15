@@ -33,4 +33,4 @@ shell.nix
 
 # Custom
 source
-
+static/giallo.css
