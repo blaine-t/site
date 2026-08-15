@@ -75,16 +75,6 @@ build_search_index = false
 
 # Configuration of the Markdown rendering
 [markdown]
-# When set to "true", all code blocks are highlighted.
-highlight_code = true
-
-# A list of directories used to search for additional `.sublime-syntax` and `.tmTheme` files.
-extra_syntaxes_and_themes = []
-
-# The theme to use for code highlighting.
-# See below for list of allowed values.
-highlight_theme = "css"
-
 # When set to "true", emoji aliases translated to their corresponding
 # Unicode emoji equivalent in the rendered Markdown files. (e.g.: :smile: => 😄)
 render_emoji = false
@@ -110,6 +100,15 @@ lazy_async_image = true
 
 # Whether footnotes are rendered in the GitHub-style (at the bottom, with back references) or plain (in the place, where they are defined)
 bottom_footnotes = true
+
+# Code block highlighting. tabi ships its own Catppuccin Frappe syntax
+# theme (sass/parts/_syntax_theme.scss), so we use class-based output and
+# let the theme's CSS handle the colours. The `theme` value here is required
+# by Zola but does not affect rendering when `style = "class"`.
+[markdown.highlighting]
+theme = "catppuccin-frappe"
+style = "class"
+error_on_missing_language = true
 
 # Configuration of the link checker.
 [link_checker]
@@ -211,7 +210,7 @@ show_remote_source = true
 # Eventually break out to individual pages
 katex = false
 copy_button = false
-add_src_to_code_block = false
+code_block_name_links = false
 favicon = "img/favicon.png"
 socials = [
     { name = "github", url = "https://github.com/blaine-t/", icon = "github" },
