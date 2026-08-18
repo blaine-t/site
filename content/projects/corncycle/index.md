@@ -16,3 +16,5 @@ CornCycle transforms a traditional digital game into a physical experience by co
 I worked on constructing and programming the hardware and mounting the projector! 
 
 Source code and more information [available on Github](https://github.com/USS-Watson/corncycle-game)!
+
+{{ dimmable_image(src="img/projects/cornCycle.avif", alt="One of the CornCycle robots", webp="img/projects/cornCycle.webp", png="img/projects/cornCycle.png") }}
