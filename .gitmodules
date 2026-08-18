@@ -2,3 +2,6 @@
 	path = themes/tabi
 	url = git@github.com:blaine-t/tabi.git
 	branch = main
+[submodule "resume"]
+	path = resume
+	url = git@github.com:blaine-t/resume.git
