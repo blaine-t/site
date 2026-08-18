@@ -13,6 +13,6 @@ We built LISA, an AI assistant whose name stands for "Local Intelligent School A
 
 We built this project in 24 hours at Hack Midwest 2024, and it received 2nd place for the Red Hat & Intel OpenShift AI Challenge. See below for a description of what LISA does. We deployed the app on the OpenShift platform during the competition, and the code in this repo is completely open-source. We aren't able to provide LISA's face model though since we modeled it after a real person at the hackathon (and it turned out somewhat creepy lol). If you are interested in taking this project further or spinning up your own instance of LISA, feel free to reach out to us and we can help out!
 
-
-
 Source code and more information [available on Github](https://github.com/USS-Watson/lisa)!
+
+<video src="https://github.com/user-attachments/assets/7e7c6c38-6246-4130-8e4a-e65a8baa246d" controls></video>

@@ -198,6 +198,7 @@ theme_switcher = true
 allowed_domains = [
     { directive = "font-src", domains = ["'self'", "data:"] },
     { directive = "img-src", domains = ["'self'", "https://*", "data:"] },
+    { directive = "media-src", domains = ["'self'", "https://github.com/user-attachments/", "https://github-production-user-asset-6210df.s3.amazonaws.com"] },
     { directive = "script-src", domains = ["'self'"] },
     { directive = "style-src", domains = ["'self'"] },
     { directive = "frame-src", domains = ["https://www.youtube-nocookie.com"] },
